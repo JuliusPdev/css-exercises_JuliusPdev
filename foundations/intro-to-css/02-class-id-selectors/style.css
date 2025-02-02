@@ -1,0 +1,12 @@
+/* All odd numebred elements */
+.oddnumbers {
+    background-color: rgb(255, 139, 139) ;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* The second element */
+
+#secondelement {
+    color: rgb(16, 0, 144);
+    font-size:36px;
+}
